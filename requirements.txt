@@ -1,0 +1,4 @@
+numpy
+matplotlib
+torch           # For neural networks (PyTorch)
+tqdm            # Optional: for progress bars
